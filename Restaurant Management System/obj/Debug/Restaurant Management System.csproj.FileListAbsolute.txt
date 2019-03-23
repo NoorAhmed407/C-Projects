@@ -1,0 +1,27 @@
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Form1.resources
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+c:\users\noorq\onedrive\documents\visual studio 2013\Projects\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\AL SYED\Desktop\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\AL SYED\Desktop\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\AL SYED\Desktop\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.Form1.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.firstcustomcontrol.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.secondcustomcontrol.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.Order.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.thirdcustomcontrol.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.fourthcustomcontrol.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.fifthcustomcontrol.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.sixthcustomcontrol.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.seventhcustomcontrol.resources
+C:\Users\AL SYED\Desktop\Restaurant Management System\obj\Debug\Restaurant_Management_System.Login.resources
